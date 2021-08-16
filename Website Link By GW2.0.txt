@@ -1,0 +1,27 @@
+﻿Website
+https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb#scrollTo=Q6bl1b0EifVG
+
+SUBSCRIBEE For Morevideosss
+
+Credits:colabhacks-pradyumnakrishna
+
+function ConnectButton(){
+    console.log("Working"); 
+    document.querySelector("#connect​").click() 
+}
+
+setInterval(ConnectButton,60000);
+duino
+https://github.com/MFDGaming/ubuntu-in-termux
+
+
+and 
+
+git clone https://github.com/revoxhere/duino-coin
+cd duino-coin
+python3 PC_Miner.py
+
+
+
+
+
