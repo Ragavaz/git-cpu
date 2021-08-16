@@ -1,0 +1,8 @@
+﻿git clone https://github.com/revoxhere/duino-coin
+cd duino-coin
+python3 PC_Miner.py
+
+
+
+
+
